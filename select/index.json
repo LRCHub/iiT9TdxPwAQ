@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "苦く、されど美しく",
+  "base_artist": "YUUHI",
+  "createdAt": "2026-03-31T06:14:21.776081Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "苦く、されど美しく",
+      "artist": "YUUHI",
+      "has_synced": false,
+      "path": "select/pl_01_苦く、されど美しく_YUUHI.txt"
+    }
+  ]
+}
